@@ -2,7 +2,7 @@
 
 ![demo](https://github.com/user-attachments/assets/385b8837-f5c4-45e4-b5b0-d218f1842362)
 
-This project is a basic demo showcasing an encounter system similar to retro games like Chrono Trigger with the classic Action combat mode mechanics.
+This project is a basic demo showcasing an encounter system similar to retro games like Chrono Trigger with the classic Action combat mode mechanics, this is basic version based on the boarding combat mechanics of my Soaring Gaia project.
 
 ## Features
 
