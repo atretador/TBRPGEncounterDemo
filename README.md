@@ -22,5 +22,5 @@ This project is a basic demo showcasing an encounter system similar to retro gam
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/rpg-turn-based-combat-demo.git
+   git clone https://github.com/atretador/TBRPGEncounterDemo.git
    
