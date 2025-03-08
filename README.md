@@ -7,7 +7,7 @@ This project is a basic demo showcasing an encounter system similar to retro gam
 ## Features
 
 - **Action mode Turn-Based Combat**: entity actions are based on a timer, instead of fixed turns.
-- **Entity Movement**: Entities can move to designated positions during encounters, instead using a "combat scene".
+- **Entity Movement**: Entities can move to designated positions during encounters, instead of using a "combat scene".
 - **Simple Encounter Trigger**: Encounters are triggered when a player gets within range of the enemy units.
 - **Basic UI**: Includes health bars and action cooldown progress bars to visualize entity states.
 
