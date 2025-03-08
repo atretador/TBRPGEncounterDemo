@@ -15,7 +15,7 @@ This project is a basic demo showcasing an encounter system similar to retro gam
 ## Getting Started
 
 ### Prerequisites
-- **Unity**: This project is built in Unity (version **6.xxxx** or later). Make sure you have Unity installed on your machine.
+- **Unity**: This project is built in Unity (version **6.xxxx**, but the csharp scripts should work with any Unity version). Make sure you have Unity installed on your machine.
 - **A basic understanding of Unity**: The project utilizes common Unity concepts such as `GameObjects`, `Colliders`, `Coroutines`, and `UI` components.
 
 ### Installation
