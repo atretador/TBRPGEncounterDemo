@@ -1,0 +1,73 @@
+# User-specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.swp
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ist/
+[Ll]ibrary/
+[Tt]emp/
+obj/
+
+# Uncomment if you have a project.lock.json file in your project
+# .project.lock.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.user
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+obj/
+Build/
+Builds/
+Assets/AssetStoreTools*
+
+# Uncomment this if you have an existing, precompiled library that is not in source control
+# /Library/
+
+# Auto-generated JetBrains Rider/VSCode project files
+.idea/
+.vscode/
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.swp
+
+# Mac system files
+.DS_Store
+Logs/*.log
