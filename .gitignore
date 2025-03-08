@@ -7,6 +7,8 @@
 *.pidb
 *.booproj
 *.swp
+*.meta
+*.log
 
 # Build results
 [Dd]ebug/
@@ -70,4 +72,3 @@ Assets/AssetStoreTools*
 
 # Mac system files
 .DS_Store
-Logs/*.log
